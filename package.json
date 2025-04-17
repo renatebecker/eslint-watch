@@ -1,6 +1,6 @@
 {
   "name": "eslint-watch",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "ESLint with simple watching capabilities",
   "main": "src/index.js",
   "scripts": {
